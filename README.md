@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @nashih-amien.
-- 🌱 I’m currently learning data analysis and visualization
 - 📫 How to reach me: https://www.linkedin.com/in/nashih-amien/
 
 <!---
